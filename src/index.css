@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: url('./public/images/john-wick.jfif'), linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    margin: 0px auto;
+  }
