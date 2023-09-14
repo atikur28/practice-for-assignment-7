@@ -5,7 +5,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
-    background: url('./public/images/john-wick.jfif'), linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.6));
+    background: url('./assets/john-wick.jfif'), linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.6));
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: cover;
